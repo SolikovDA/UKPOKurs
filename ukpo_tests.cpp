@@ -16,6 +16,7 @@ int input()
 	return y;
 }
 
+
 bool checkmatrixnum(int x)
 {
 	if (x == 1) return true;
